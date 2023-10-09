@@ -1,0 +1,92 @@
+
+tut1 -> HelloWorld;
+tut2 -> Variables;
+tut3 -> DataTypes;
+tut4 -> Literals;
+tut5 -> Type Convertion and Casting;
+tut6 -> Assignment_Operators;
+tut7 -> Relational_Operator;
+tut8 ->Logical_Operators;
+tut9 ->Logical_Operators;
+tut10 ->Ternary_Operators;
+tut11 ->Switch_Statement;
+tut12 ->Loops;
+tut13 ->Nested_Loop;
+
+******* OBJECT ORIENTED PROGRAMMING *******
+
+tut14 ->Object;
+tut15 ->Types_of_Method;
+tut16 ->Method_Overloading;
+tut17 ->Object_Memory;
+
+
+tut18 ->Array_s;
+tut19 ->Two_Dimentional_Array;
+tut20 ->Three_Dimentional_Array;
+tut21 ->Array_of_Objects;
+tut22 ->For_Each;
+tut23 ->String_s;
+tut24 ->String_Properties;
+tut25 ->Mutable_And_Immutable_String;
+tut26 ->Static_Variable;
+tut27 ->Static_Block,Static_Method,Constructor;
+tut28 ->Encapsulation;
+tut29 ->Getters_And_Setters;
+tut30 ->This_Keyword;
+tut31 ->Constructor;
+tut32 ->Super_And_This;
+tut33 ->Naming_Convention;
+tut34 ->Anonymous_Objects;
+tut35 ->Inheritance;
+tut36 ->OverRiding;
+tut37 ->Pacakages;
+tut38 ->Access_modifiers;
+tut39 ->Polymorphism;
+tut40 ->Final_Keyword(****);
+tut41 ->Object_Class;
+tut42 ->UpCasting_And_DownCasting;
+tut43 ->Abstract_keyword;
+tut44 ->Inner_Class;
+tut45 ->Anonymous_Class;
+tut46 ->Abstract_keyword_With_Anonymous_Class;
+tut47 ->Interface_s;
+tut48 ->Multiple_Interface_And_Multiple_Inheritance;
+tut49 ->Need_Of_Interface;
+tut50 ->Enumaration;
+tut51 ->Annotations;
+tut52 ->Functinal_Interfaces_And_Lamda_Functions;
+tut53 ->Type_of_Interfaces;
+tut54 ->Exceptions_Handling;
+tut55 ->Exception_Throw_And_Throws_Keyword;
+tut56 ->Input_in_java;
+tut57 ->Try_And_Finally;
+tut58 ->Maintaing_Multi_Tasks_With_Thread;
+tut59 ->Maintaing_Multi_Tasks_With_Runnable_Using_Lamda_Function;
+tut60 ->Race_Condition;
+tut61 ->Life Cycle of the Thread;
+tut62 ->Types_of_Collections;
+tut63 ->Map_Class;
+tut64 ->Comparator_Vs_Comparable;
+tut65 ->Need_Of_Stream_API;
+tut66 ->For_Each_Method;
+tut67 ->Stream_API;
+
+
+
+
+
+
+
+Vedio:https://www.youtube.com/watch?v=BGTx91t8q50
+
+
+
+
+
+Running Java File:
+Case1:
+    javac Filename.Java
+    java Classname
+Case2:
+    java Filename.Java
